@@ -1,2 +1,1 @@
-Hand written digit prediction 
-Data Science Project
+Hand written digit prediction
